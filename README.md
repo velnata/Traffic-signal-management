@@ -17,3 +17,6 @@ STEPS TO BE FOLLOWED:
 6)Building processing pipeline for further data manipulation
 
 7)In our final step it counts the number of vehicles going through and calculating the traffic density.
+
+Demo video on how the sensor works
+link:https://youtu.be/_dzZxWf6W2U
